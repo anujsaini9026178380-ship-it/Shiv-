@@ -1,0 +1,6 @@
+{
+  "name": "Shiva Mandir",
+  "description": "Temple management system for Shiva Mandir: inventory tracking, member donations, digital receipts, volunteer scheduling, and AES-256 encrypted records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
